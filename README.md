@@ -61,11 +61,6 @@ Scikit-Learn is a machine learning library in Python that provides a wide range 
 Random Forest is an ensemble learning algorithm that combines multiple decision trees to create a more robust and accurate model. It's used for both classification and regression tasks.
 
 
-* **Variance Inflation Factor (VIF)**
-
-The VIF is used to detect multicollinearity among predictor variables in a regression analysis. It helps identify redundant variables that might negatively impact model performance.
-
-
 * **Model Evaluation Metrics**
 
 Various metrics like accuracy, precision, recall, F1-score, confusion matrix, ROC curve, and AUC (Area Under Curve) are used to assess the performance of the machine learning models.
@@ -74,16 +69,6 @@ Various metrics like accuracy, precision, recall, F1-score, confusion matrix, RO
 * **Logistic Regression, Decision Tree, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Naive Bayes, AdaBoost, Gradient Boosting, XGBoost**
 
 These are different classification algorithms used to build predictive models based on the given data. Each algorithm has its own strengths and weaknesses.
-
-
-* **TensorFlow and Keras**
-
-TensorFlow is an open-source machine learning framework developed by Google. Keras is a high-level neural networks API that runs on top of TensorFlow. They are used for building and training deep learning models.
-
-
-* **Neural Networks**
-
-Neural networks are used to model complex relationships in the data. They consist of layers of interconnected nodes that simulate the behavior of neurons in the human brain. Deep learning algorithms are based on neural networks.
 
 
 * **StandardScaler**
@@ -109,11 +94,6 @@ Cross-validation is a technique used to evaluate the generalization performance 
 * **Early Stopping**
 
 Early stopping is a regularization technique used in training neural networks. It stops training when the model's performance on a validation set starts deteriorating, preventing overfitting.
-
-* **ModelCheckpoint**
-
-ModelCheckpoint is a callback in Keras that saves the model's weights during training. It helps to save the best model based on a specific metric, allowing you to restore the model later.
-
 
 * **ROC Curve and AUC (Receiver Operating Characteristic - Area Under Curve)**
 
